@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MDX_Optimaze", "MDX_Optimaze\MDX_Optimaze.vcxproj", "{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Debug|x64.ActiveCfg = Debug|x64
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Debug|x64.Build.0 = Debug|x64
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Debug|x86.Build.0 = Debug|Win32
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Release|x64.ActiveCfg = Release|x64
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Release|x64.Build.0 = Release|x64
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Release|x86.ActiveCfg = Release|Win32
+		{E5E9E431-3AA5-4B13-8681-75AB7F6EEAFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {009808F6-C28C-476F-9A5C-6F752263E662}
+	EndGlobalSection
+EndGlobal
